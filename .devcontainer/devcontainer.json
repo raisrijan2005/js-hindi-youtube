@@ -1,0 +1,7 @@
+{
+  "name": "Chai Aur Code JS",
+  "image": "://microsoft.com",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {}
+  }
+}
